@@ -8,45 +8,27 @@
 
 ![Scrum](https://bkimg.cdn.bcebos.com/pic/2934349b033b5bb538d670f136d3d539b600bcb8?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5))
 
-
-
-
-
 ## 二、产品Backlog
 
-1. 1. 编写产品backlog：ID、Name、Importance、 Initial estimate、 How to demo、 Notes
-   2. 让产品backlog停留在业务层次上：解决问题的是开发团队，产品负责人只需要关注业务目标。
-   3. 只有产品负责人能够对Importance进行评估，同样地，只有开发团队才能够添加Initial estimate
+1. 编写产品backlog：ID、Name、Importance、 Initial estimate、 How to demo、 Notes
+2. 让产品backlog停留在业务层次上：解决问题的是开发团队，产品负责人只需要关注业务目标。
+3. 只有产品负责人能够对Importance进行评估，同样地，只有开发团队才能够添加Initial estimate
 
 ## 三、准备Sprint计划
 
-1. 1. 确保产品backlog必须存在 && 产品backlog及产品负责人唯一 && 重要的backlog条目的重要性被评过分（仅用来排序）
-
-   2. 举办Sprint计划会议是为了让团队获得足够的信息，从而能够在几个星期内（一个冲刺？）不受干扰地工作。
-
-   3. Sprint计划会议需要整个团队和产品负责人的参与， 
-
-   4. Sprint计划会议的成果：
-
-   5. 1. 确定sprint演示日期（也即sprint长度）
-
-      2. sprint目标（尚未达成的，使用业务术语而非技术词汇表达）——定义“完成”/milestone
-
-      3. 团队成员名单，
-
-      4. sprint backlog（团队决定从product backlog中拷贝其中一部分到sprint backlog中，从而在下一个sprint前完成）
-
-      5. - 通过本能反应来估算
-
-      6. - 通过生产率来估算（结合团队历史）：基于昨日天气、基于可用人-天和投入程度
-
-      7. 确定好daily meeting的时间地点
-
-      8. 确定界限
-
-   6. 得到信息表
-
-2. 
+1. 确保产品backlog必须存在 && 产品backlog及产品负责人唯一 && 重要的backlog条目的重要性被评过分（**仅用来比较/排序**）。
+2. 举办Sprint计划会议是为了让团队获得足够的信息，从而能够在几个星期内（一个冲刺？）不受干扰地工作。
+3. Sprint计划会议需要整个团队和产品负责人的参与，
+4. Sprint计划会议应该实现的成果：
+   1. 确定演示日期（也即Sprint长度）
+   2. Sprint目标（尚未达成的，使用业务术语而非技术词汇表达）——定义“完成”/Milestone
+   3. 团队成员名单
+   4. Sprint Backlog（团队决定从故事板中“拷贝”其中一部分故事到Sprint Backlog中，从而在下一个Sprint前完成）
+      - 通过本能反应来估算
+      - 通过生产率来估算（结合团队历史）：基于昨日天气、可用人-天，以及投入程度
+   5. 确定好daily meeting的时间地点
+   6. 定好界限
+5. 得到信息表
 
 ## 四、Sprint演示
 
@@ -59,8 +41,6 @@
    - 演示关注鱼业务层次，不管技术细节
    - 可以提到但无需演示修复的bug或微不足道的特性
 
-1. 
-
 ## 五、Sprint回顾
 
 1. 开发团队+产品负责人参与
@@ -68,4 +48,3 @@
 3. 轮流发言，分析在下一个sprint需要做的改进
 4. 比较预估生产率和实际生产率做sprint回顾
 
-1. 
