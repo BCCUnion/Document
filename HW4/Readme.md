@@ -15,6 +15,7 @@
 - [迭代计划](迭代计划.md)
 - [Sprint计划会议的会议记录](Sprint计划会议的会议记录.pdf)
 - [Sprint信息页](Sprint信息页.md)
+- [Sprint演示](https://www.bilibili.com/video/BV1L5411a7nj)
 - [Sprint回顾会议的会议记录](Sprint回顾会议的会议记录.pdf)
 - 技术开发笔记
 - [实践总结报告](实践总结报告.md)
