@@ -19,9 +19,9 @@
 - [封闭开发过程](封闭开发过程.md)
 - [Sprint演示](https://www.bilibili.com/video/BV1L5411a7nj)
 - [Sprint回顾会议的会议记录](Sprint回顾会议的会议记录.pdf)
-- 技术开发笔记
+- [技术开发笔记](./技术开发笔记/技术开发笔记.md)
 - [实践总结报告](实践总结报告.md)
-- PPT
+- [PPT](管理经验.pptx)
 
 
 
