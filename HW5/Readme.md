@@ -13,7 +13,7 @@
 - **[非功能需求](非功能需求.md)**
 - **[测试文档](https://github.com/BCCUnion/BCCSchool/blob/master/test/test1.md)**
 - **[搭建CI/CD流水线&分析团队质量问题&提高代码覆盖率的方法](https://github.com/BCCUnion/BCCSchool/tree/master/cicd%20test)**
-- 技术报告/经验分享
+- **[技术报告/经验分享](./技术报告/技术报告&经验分享.md)**
 
 
 
